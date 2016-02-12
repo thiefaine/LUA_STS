@@ -75,8 +75,8 @@ sh play.sh
 
 <hr>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>w</kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>up</kbd> <br>
-<strong>Control gates</strong> : <kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> <strong>OR</strong> <kbd>left</kbd><kbd>down</kbd><kbd>right</kbd> <br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>w</kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd>up</kbd> <br>
+<strong>Move</strong> : <kbd>a</kbd><kbd>s</kbd><kbd>d</kbd> <strong>OR</strong> <kbd>left</kbd><kbd>down</kbd><kbd>right</kbd> <br>
 <strong>Switch Weapon</strong> : <kbd>l</kbd> <br>
 <strong>Settings</strong> : <kbd>Esc</kbd></p>
 
